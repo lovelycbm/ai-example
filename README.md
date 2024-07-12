@@ -1,6 +1,6 @@
 # 실증 사업 대비 예제
 
-## AI 허브 데이터로 예제 작성 해봄 (2024-07-10)
+## AI 허브 데이터로 예제 작성 (2024-07-10)
 
 1. 웹페이지의 샘플데이터 다운로드
 2. url : https://aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=realm&dataSetSn=157
